@@ -87,31 +87,6 @@ An infrastructure-as-code and deployment automation project designed to orchestr
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:rathod.dt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dr-dilip-rathod/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rathoddt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<hr>
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📫 Connect With Me</h1><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📫 Connect With Me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a href="mailto:rathod.dt@gmail.com"><img src="https://camo.githubusercontent.com/54f1b6d71acceac12d57514a43e2b2960cce4ebfe178bbfcc465428820722898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d70617261736a61696e706172617333313040676d61696c2e636f6d2d726564" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-parasjainparas310@gmail.com-red" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://www.linkedin.com/in/dr-dilip-rathod/" rel="nofollow"><img src="https://camo.githubusercontent.com/056a0cd2b36ffc28cb23a8fe1cf2eb459bf1cc1993fe7f9108baefbd84a1a7c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c7565" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-Connect-blue" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="/ParasJain03/ParasJain03/blob/main"><img src="https://camo.githubusercontent.com/9db245cefb2fd973f76c76c22930194550d4a8fcbb80d1d2574a3711fb148b0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50686f6e652d2532423931393431303234333638322d677265656e" alt="Phone" data-canonical-src="https://img.shields.io/badge/Phone-%2B919158005304-green" style="max-width: 100%;"></a></p>
-<hr>
-
-⭐ *If you find my cloud architectures or MLOps pipelines helpful, feel free to **star** the repositories!*
-
----
-
-## 📫 Connect With Me
-
 <a href="mailto:rathod.dt@gmail.com">
   <img src="https://img.shields.io/badge/Email-rathod.dt@gmail.com-D14836?style=flat" alt="Email" />
 </a>
