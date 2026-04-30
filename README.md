@@ -1,5 +1,5 @@
 <!-- Banner Image (Optional: Replace the link with your own branded banner if you have one) -->
-<img src="LinkedIn-Banner-Canva.png" height="200" width="100%">
+<img src="LinkedIn-Banner-Canva.png" height="200" width="100%"> 
 
 # Hi, I'm Dr. Dilip Rathod 👋
 
