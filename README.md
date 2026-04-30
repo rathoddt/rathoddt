@@ -87,7 +87,7 @@ An infrastructure-as-code and deployment automation project designed to orchestr
 
 ## 📫 Connect With Me
 
-<a href="mailto:rathod.dt@gmail.com">
+<a href="mailto:diliprathod.career@gmail.com">
   <img src="https://img.shields.io/badge/Email-rathod.dt@gmail.com-D14836?style=flat" alt="Email" />
 </a>
 <br><br>
