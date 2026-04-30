@@ -107,3 +107,21 @@ An infrastructure-as-code and deployment automation project designed to orchestr
 <hr>
 
 ⭐ *If you find my cloud architectures or MLOps pipelines helpful, feel free to **star** the repositories!*
+
+---
+
+## 📫 Connect With Me
+
+<a href="mailto:rathod.dt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rathod.dt@gmail.com-D14836?style=flat" alt="Email" />
+</a>
+<br><br>
+<a href="https://www.linkedin.com/in/dr-dilip-rathod/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat" alt="LinkedIn" />
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Phone-%2B91_9158005304-8CC63F?style=flat" alt="Phone" />
+
+---
+
+⭐ *If you find my cloud architectures or MLOps pipelines helpful, feel free to **star** the repositories!*
